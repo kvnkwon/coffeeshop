@@ -1,0 +1,18 @@
+User Stories
+
+As a cashier,
+I want to enter purchases that automatically refers to the item price,
+So that I don't need to manually enter the prices every time a customer makes a purchase.
+
+
+
+Acceptance Criteria
+- User is given an option to select from a list of actions they can do.
+- The list of actions contains the item prices and their name.
+- User has the option to enter an action that would complete the sale.
+- User is prompted to make a selection, then can enter a value that would refer to the action list.
+- User is prompted to enter the quantity of items they would like to purchase.
+- The subtotal is given after making a selection and the quantity of the item.
+- Upon completion of the sale, user is given a summary of the purchases along with the total amount that is due.
+- User can enter the amount that was given by the customer.
+- If the amount given is higher or lower than the amount that is due, the change owed is automatically calculated and given.
